@@ -7,7 +7,6 @@ A simple customer management CRUD application made using laravel framework.
 - Start server <b>php artisan serv</b>
 - Create Migration <b>php artisan migrate:make 'your_text'</b>
 - Update migration <b>php artisan migrate</b>
-
 > Tested using Apache server with MySQL database
 
 <br><hr><hr>
