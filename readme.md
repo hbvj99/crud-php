@@ -1,3 +1,16 @@
+A simple customer management CRUD application made using laravel framework.
+
+![php-crud_demo](https://user-images.githubusercontent.com/43197293/45925086-7957d400-bf2e-11e8-969c-840bf7afb972.png)
+
+### How to use
+- Create SQL database <b>customerdb</b>
+- Start server <b>php artisan serv</b>
+- Create Migration <b>php artisan migrate:make 'your_text'</b>
+- Update migration <b>php artisan migrate</b>
+
+> Tested using Apache server with MySQL database
+
+<br><hr><hr>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
