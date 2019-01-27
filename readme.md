@@ -1,6 +1,6 @@
 A simple customer management CRUD application made using laravel framework.
 
-![php-crud_demo](https://user-images.githubusercontent.com/43197293/45925086-7957d400-bf2e-11e8-969c-840bf7afb972.png)
+![php-crud_demo](https://user-images.githubusercontent.com/43197293/51804484-ad028c00-2289-11e9-9a4f-bf5c58028630.jpg)
 
 ### How to use
 - Create SQL database <b>customerdb</b>
